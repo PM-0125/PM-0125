@@ -45,8 +45,8 @@ I'm an Indian, full-stack AI-ML developer and content creator building my versio
 #
 
 ### 📊 Stats
+![AI Pathfinders's GitHub stats](https://github-readme-stats.vercel.app/api?username=PM-0125&show_icons=true&theme=gruvbox&v=1)
 
-![AI Pathfinders's GitHub stats](https://github-readme-stats.vercel.app/api?username=PM-0125&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
