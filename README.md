@@ -71,6 +71,6 @@ I teach core AI/ML concepts with a practical, builder-first mindset.
 
 ## 🤝 Contact
 **Email:** [pranjulmishra228161@gmail.com](mailto:pranjulmishra228161@gmail.com)  
-**LinkedIn:** [/in/pranjul-mishra-973b24206](https://www.linkedin.com/in/pranjul-mishra-973b24206/)  
+**LinkedIn:** [/in/pranjul-mishra-973b24206](https://www.linkedin.com/in/pranjul-mishra/)  
 **GitHub:** [@PM-0125](https://github.com/PM-0125)
 
