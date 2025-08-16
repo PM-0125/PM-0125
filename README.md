@@ -1,60 +1,76 @@
-# 🏄‍♂️ AI Pathfinders
+# 🧬 Pranjul Mishra — Research Software Engineer (Credible AI / BioXAI)
 
-**`Digital Craftsman (Developer/Creator)`**
+[![Location](https://img.shields.io/badge/Warsaw-Poland-blue)](#)
+[![Email](https://img.shields.io/badge/Email-pranjulmishra228161%40gmail.com-informational)](mailto:pranjulmishra228161@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranjul--mishra--973b24206-0A66C2)](https://www.linkedin.com/in/pranjul-mishra-973b24206/)
+[![GitHub](https://img.shields.io/badge/GitHub-@PM--0125-black)](https://github.com/PM-0125)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages%20(soon)-forestgreen)](#)
 
-I'm an Indian, full-stack AI-ML developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches  trying to teach AI-ML in fantastic way. I publish that content on my YouTube channel "[AI Pathfinders][youtube]" to more than 87 subscribers.
-
-   <p align="left">
-      <a href="https://www.youtube.com/channel/UC7X_nDwGDd8PSOoJNr7UENw?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7X_nDwGDd8PSOoJNr7UENw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/channel/UC7X_nDwGDd8PSOoJNr7UENw">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC7X_nDwGDd8PSOoJNr7UENw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/PM-0125?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PM-0125?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/PM-0125?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PM-0125?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+I build **open-source, tested, and reproducible** ML/biomedical tools that other people can trust. My focus spans **BioXAI** (long-read genomics, structural variants) and **credible model analysis**, with hands-on **MLOps** (DVC/MLflow, CI/CD, containers). I also run **AI Pathfinders**, a learning initiative and YT channel for approachable AI/ML.
 
 ---
 
-### 🧰 Languages and Tools
+## 🔭 What I’m working on
+- **SvPhaser** — open-source, **pip-installable** long-read **structural variant phasing** tool  
+  • parallel & chromosome-aware · confidence scoring · CLI · tests/CI/docs  
+  ➜ Repo: https://github.com/SFGLab/SvPhaser
+- **VC challenge (BIO/CCAI)** with Prof. Dariusz Plewczyński — credible pipelines & hybrid BioXAI.
+- **INFERMed** — clinical **RAG** over DrugBank/FDA/PubChem with **SPARQL** reasoning (DDI support)  
+  ➜ Repo: https://github.com/PM-0125/INFERMed
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+> I care about maintainable science: software others can run, inspect, and extend.
 
-#
+---
 
-### 📺 Latest YouTube Videos
+## 🧰 Core skills 
+**Languages:** Python · C++ · SQL · SPARQL · HTML/CSS  
+**ML/AI:** PyTorch · TensorFlow · scikit-learn · NLTK · spaCy · Keras · OpenCV  
+**Reproducible ML / MLOps: **MLflow** · **Docker** · **Conda** · **GitHub Actions** · **pytest** · **mypy** · **pre-commit** ·  Sphinx/MkDocs  
+**Data/DB:** PostgreSQL · MySQL · Apache Jena  
+**Dev/Platforms:** Linux · VS Code · Git · **Gitea**
+
+---
+
+## 🌟 Featured projects
+- **SvPhaser** — Long-read **SV phasing** (parallel, chromosome-aware, confidence scoring); CLI package with tests/CI/docs.  
+  https://github.com/SFGLab/SvPhaser
+- **INFERMed** — Clinical **RAG** for drug–drug interactions using biomedical KGs and **SPARQL**.  
+  https://github.com/PM-0125/INFERMed
+- **SV Detection Algorithm** — Read-depth & split-read signals; designed to integrate phased BAM + VCF.  
+  https://github.com/PM-0125/Computational-Genomics/tree/main/Structural_Variant_Detection_Algorithm
+- **Advanced Breast Cancer Analysis** — ML comparative study across modalities.  
+  https://github.com/PM-0125/AI_ML_Projects/tree/main/Advanced%20Breast%20Cancer%20Analysis
+
+*Tip: add metrics when available (e.g., % phased SVs, runtime/chr, dataset sizes).*
+
+---
+
+## 🎓 Education
+- **M.Sc., Computer Science & Information Systems (AI)** — Warsaw University of Technology (2024–2025)  
+- **B.Tech., Computer Engineering (AI)** — Marwadi University (2019–2023)
+
+---
+
+## 📺 AI Pathfinders — latest videos
+I teach core AI/ML concepts with a practical, builder-first mindset.
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Introduction | Artifical Intelligence | Education for All | New Course | Machine Learning](https://ytcards.demolab.com/?id=eoLJAQLUXbM&t=1s&title=Introduction+|+Artificial+Intelligence+|+Education+For+All+%28Part+1%29&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=103 "Introduction | Artifical Intelligence | Education for All | New Course | Machine Learning")](https://youtu.be/eoLJAQLUXbM)
-[![Decoding AI:Understanding the Distinction Between AI, Machine Learning, &Deep Learning](https://ytcards.demolab.com/?id=DIkAd3aBpg4&title=Decoding+AI+Understanding+the+distinction+Between+AI%2C+Machine+Learing%2C+Deep+Learning%2C&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=218 "Decoding AI:Understanding the Distinction Between AI, Machine Learning, &Deep Learning")](https://www.youtube.com/watch?v=DIkAd3aBpg4)
+[![Introduction | Artificial Intelligence | Education For All (Part 1)](https://ytcards.demolab.com/?id=eoLJAQLUXbM&t=1s&title=Introduction+|+Artificial+Intelligence+|+Education+For+All+%28Part+1%29&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=103 "Introduction | Artificial Intelligence | Education For All (Part 1)")](https://youtu.be/eoLJAQLUXbM)
+[![Decoding AI: AI vs ML vs Deep Learning](https://ytcards.demolab.com/?id=DIkAd3aBpg4&title=Decoding+AI+Understanding+the+distinction+Between+AI%2C+Machine+Learing%2C+Deep+Learning%2C&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=218 "Decoding AI: AI vs ML vs Deep Learning")](https://www.youtube.com/watch?v=DIkAd3aBpg4)
 [![The Machine Learning Landscape - Part 1](https://ytcards.demolab.com/?id=RYoy9R-GkUQ&title=The+Machine+Learning+Landscape+Part1&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=667 "The Machine Learning Landscape - Part 1")](https://www.youtube.com/watch?v=RYoy9R-GkUQ)
-
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC7X_nDwGDd8PSOoJNr7UENw?sub_confirmation=1)
 
-#
+---
 
-### 📊 Stats
-![AI Pathfinders's GitHub stats](https://github-readme-stats.vercel.app/api?username=PM-0125&show_icons=true&theme=gruvbox&v=1)
+## 📊 GitHub Stats
+![PM-0125's GitHub stats](https://github-readme-stats.vercel.app/api?username=PM-0125&show_icons=true&theme=gruvbox&v=1)
 
+---
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+## 🤝 Contact
+**Email:** [pranjulmishra228161@gmail.com](mailto:pranjulmishra228161@gmail.com)  
+**LinkedIn:** [/in/pranjul-mishra-973b24206](https://www.linkedin.com/in/pranjul-mishra-973b24206/)  
+**GitHub:** [@PM-0125](https://github.com/PM-0125)
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-[website]: https://fkcodes.com
-[youtube]: https://www.youtube.com/channel/UC7X_nDwGDd8PSOoJNr7UENw
