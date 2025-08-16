@@ -2,7 +2,7 @@
 
 [![Location](https://img.shields.io/badge/Warsaw-Poland-blue)](#)
 [![Email](https://img.shields.io/badge/Email-pranjulmishra228161%40gmail.com-informational)](mailto:pranjulmishra228161@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranjul--mishra--973b24206-0A66C2)](https://www.linkedin.com/in/pranjul-mishra-973b24206/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranjul--mishra--973b24206-0A66C2)](https://www.linkedin.com/in/pranjul-mishra/)
 [![GitHub](https://img.shields.io/badge/GitHub-@PM--0125-black)](https://github.com/PM-0125)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages%20(soon)-forestgreen)](#)
 
