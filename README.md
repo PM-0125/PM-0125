@@ -41,8 +41,6 @@ I build **open-source, tested, and reproducible** AI-ML/biomedical tools that ot
 - **Advanced Breast Cancer Analysis** — ML comparative study across modalities.  
   https://github.com/PM-0125/AI_ML_Projects/tree/main/Advanced%20Breast%20Cancer%20Analysis
 
-*Tip: add metrics when available (e.g., % phased SVs, runtime/chr, dataset sizes).*
-
 ---
 
 ## 🎓 Education
