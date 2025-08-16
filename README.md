@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@PM--0125-black)](https://github.com/PM-0125)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages%20(soon)-forestgreen)](#)
 
-I build **open-source, tested, and reproducible** ML/biomedical tools that other people can trust. My focus spans **BioXAI** (long-read genomics, structural variants) and **credible model analysis**, with hands-on **MLOps** (DVC/MLflow, CI/CD, containers). I also run **AI Pathfinders**, a learning initiative and YT channel for approachable AI/ML.
+I build **open-source, tested, and reproducible** AI-ML/biomedical tools that other people can trust. My focus spans **BioXAI** (long-read genomics, structural variants) and **credible model analysis**, **system intelligens(models/RAG-Systems)** with hands-on **MLOps** (DVC/MLflow, CI/CD, containers). I also run **AI Pathfinders**, a learning initiative and YT channel for approachable AI/ML.
 
 ---
 
@@ -35,7 +35,7 @@ I build **open-source, tested, and reproducible** ML/biomedical tools that other
 - **SvPhaser** — Long-read **SV phasing** (parallel, chromosome-aware, confidence scoring); CLI package with tests/CI/docs.  
   https://github.com/SFGLab/SvPhaser
 - **INFERMed** — Clinical **RAG** for drug–drug interactions using biomedical KGs and **SPARQL**.  
-  https://github.com/PM-0125/INFERMed
+  https://github.com/PM-0125/INFERMed (*work in progress.*)
 - **SV Detection Algorithm** — Read-depth & split-read signals; designed to integrate phased BAM + VCF.  
   https://github.com/PM-0125/Computational-Genomics/tree/main/Structural_Variant_Detection_Algorithm
 - **Advanced Breast Cancer Analysis** — ML comparative study across modalities.  
