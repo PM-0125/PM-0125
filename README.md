@@ -25,7 +25,7 @@ I build **open-source, tested, and reproducible** AI-ML/biomedical tools that ot
 ## 🧰 Core skills 
 **Languages:** Python · C++ · SQL · SPARQL · HTML/CSS  
 **ML/AI:** PyTorch · TensorFlow · scikit-learn · NLTK · spaCy · Keras · OpenCV  
-**Reproducible ML / MLOps: **MLflow** · **Docker** · **Conda** · **GitHub Actions** · **pytest** · **mypy** · **pre-commit** ·  Sphinx/MkDocs  
+**Reproducible ML / MLOps**: **MLflow** · **Docker** · **Conda** · **GitHub Actions** · **pytest** · **mypy** · **pre-commit** ·  Sphinx/MkDocs  
 **Data/DB:** PostgreSQL · MySQL · Apache Jena  
 **Dev/Platforms:** Linux · VS Code · Git · **Gitea**
 
